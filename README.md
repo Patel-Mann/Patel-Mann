@@ -24,4 +24,4 @@
 
 
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
-<a href="https://github.com/mannpatel0"><img  align ="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannpatel0&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
+<a href="https://github.com/patel-mann"><img  align ="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannpatel0&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
