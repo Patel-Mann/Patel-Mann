@@ -10,7 +10,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-Mann_Patel-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mann-B-patel" height="30">
   </a>
 
-  <a href="https://mannpatel0.github.io">
+  <a href="https://patel-mann.github.io">
     <img alt="My Portfolio Website" src="https://img.shields.io/badge/-My_Portfolio_Website-ff5722?style=flat-square&logo=Firefox&logoColor=white&link=https://mannpatel0.github.io" height="30">
   </a>
 </p>
