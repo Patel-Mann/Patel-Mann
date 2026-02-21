@@ -1,7 +1,6 @@
-<h1 align="center">Hi there, 👋🏼 How are ya?</h1>
-<h2 align="center">Why I Switched to Codeberg</h2>
+<h1 align="center">Hi there, 👋🏼 I Switched to Codeberg</h1>
 <p align="center">
-  After constantly being bugged by GitHub to buy a Copilot subscription (even though I don’t use it), I decided to switch to Codeberg. I prefer its cleaner interface, simple and straight-to-the-point UI, and the absence of annoying prompts.
+  After constantly being bugged by GitHub to buy a Copilot subscription (even though I don’t use it), I decided to switch to Codeberg. I prefer its cleaner interface, simple and straight-to-the-point UI, and the absence of annoying marketing prompts & emails .
   <br><br>
   You can check out my Codeberg profile here:
   <br>
@@ -10,13 +9,10 @@
   </a>
 </p>
 <br>
-<p align="center">
-I enjoy working on backend software & data science, especially building systems that use data to make better decisions. I like seeing how data shows up everywhere in backend systems, whether it’s improving performance or helping choose the right products to put on the shelf in stores. In my free time, I work on embedded systems as a hobby. I enjoy mixing software and hardware and learning how things work at a lower level, mostly out of curiosity and enjoyment.
-</p>
+
 <p align="center">
   <a href="mailto:mann.patel1@ucalgary.ca"><img src="https://img.shields.io/badge/EMAIL-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/patel-mann"><img src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/patel-mann"><img src="https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <br>
