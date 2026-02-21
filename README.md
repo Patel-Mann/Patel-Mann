@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, 👋🏼 I Switched to Codeberg</h1>
 <p align="center">
   After constantly being bugged by GitHub to buy a Copilot subscription (even though I don’t use it), I decided to switch to Codeberg. I prefer its cleaner interface, simple and straight-to-the-point UI, and the absence of annoying marketing prompts & emails .
-  <br><br>
+  <br>
   You can check out my Codeberg profile here:
   <br>
   <a href="https://codeberg.org/mannpatel" target="_blank">
@@ -14,10 +14,7 @@
   <a href="mailto:mann.patel1@ucalgary.ca"><img src="https://img.shields.io/badge/EMAIL-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/patel-mann"><img src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<br>
 <h2 align="center">Backend Skills</h2>
-
 <p align="center">
 <img src="https://img.shields.io/badge/GO-LANG-00ADD8.svg?&style=flat-square&logo=go&logoColor=white" alt="GoLang"/>&nbsp;
 <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python"/>&nbsp;
