@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, 👋🏼 I Switched to Codeberg</h1>
 <p align="center">
   After constantly being bugged by GitHub to buy a Copilot subscription (even though I don’t use it), I decided to switch to Codeberg. I prefer its cleaner interface, simple and straight-to-the-point UI, and the absence of annoying marketing prompts & emails .
-  <br>
+  <br><bold>
   You can check out my Codeberg profile here:
+  </bold>
   <br>
   <a href="https://codeberg.org/mannpatel" target="_blank">
     https://codeberg.org/mannpatel
