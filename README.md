@@ -4,7 +4,7 @@
   <br><br>
   You can check out my Codeberg profile here:
   <br>
-  <a href="https://codeberg.org/username" target="_blank">
+  <a href="https://codeberg.org/mannpatel" target="_blank">
     https://codeberg.org/mannpatel
   </a>
 </p>
